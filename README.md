@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hola, I'm [Vaibhav Mishra!](https://mvaibhavm09.github.io/) 👋
 
-<!--
-**mvaibhavm09/mvaibhavm09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvaibhavm09&label=Views&color=brightgreen&style=plastic" alt="mvaibhavm09" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/i_m_WhiteDevil">
+  <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vaibhav-mishra-85178018b/">
+  <img align="left" alt=" Vaibhav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mvaibhavm09">
+  <img align="left" alt="Vaibhav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/mvaibhavm09">
+  <img align="left" alt="Vaibhav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://discord.gg/bBztefq">
+  <img align="left" alt="Vaibhav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+- 🔭 I’m currently working on Independent Pentester.
+- 🌱 I’m currently learning more about Malware Analysis.
+- 🤔 I’m looking for cybersecurity opportunities.
+- 💬 Ask me about Cybersecurity or any tech-related stuff.
+- 📫 How to reach me: [Twitter - @i_m_WhiteDevil](https://twitter.com/i_m_WhiteDevil)
+- 😄 Pronouns: White Devil
+- ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
+- 📄  Read my Blogs : [Medium.com/@iamwhitedevil](https://medium.com/@iamwhitedevil)
+
+[![Twitter: i_m_WhiteDevil](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/i_m_WhiteDevil)
+[![Linkedin: Vaibhav Mishra](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-mishra-85178018b/)](https://www.linkedin.com/in/vaibhav-mishra-85178018b/)
+[![GitHub Vaibhav Mishra](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mvaibhavm09)
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://mvaibhavm09.github.io/)
