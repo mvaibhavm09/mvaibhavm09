@@ -33,7 +33,7 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://mvaibhavm09.github.io/)
 <br><br>
-<a href="https://github.com/iamlucif3r">
+<a href="https://github.com/mvaibhavm09">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvaibhavm09&show_icons=true&theme=dark&line_height=24" alt="Vaibhav's github stats"/>
 </a>
 
