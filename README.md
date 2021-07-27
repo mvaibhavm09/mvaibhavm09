@@ -31,7 +31,4 @@
 - ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
 - 📄  Read my Blogs : [Medium.com/@iamwhitedevil](https://medium.com/@iamwhitedevil)
 
-[![Twitter: i_m_WhiteDevil](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/i_m_WhiteDevil)
-[![Linkedin: Vaibhav Mishra](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-mishra-85178018b/)](https://www.linkedin.com/in/vaibhav-mishra-85178018b/)
-[![GitHub Vaibhav Mishra](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/mvaibhavm09)
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://mvaibhavm09.github.io/)
