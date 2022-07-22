@@ -29,7 +29,7 @@
 - 📫 How to reach me: [Twitter - @mvaibhavm09](https://twitter.com/mvaibhavm09)
 - 😄 Pronouns: White Devil
 - ⚡ Fun fact: I spend almost 2 hours listening to songs every day.
-- 📄  Read my Blogs : [Medium.com/@iamwhitedevil](https://medium.com/@mvaibhavm09)
+- 📄  Read my Blogs : [Medium.com/@mvaibhavm09](https://medium.com/@mvaibhavm09)
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](#)
 <br></br>
